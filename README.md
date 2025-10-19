@@ -1,7 +1,21 @@
-Lunar Client (all versions)
+NetworkAnalyzer — программа, предназначенная для обнаружения inject-читов путем анализа сетевой активности.
 
-Feather Client (all versions)
+Обнаруживаемые читы:
 
-Minecraft Vanilla (1.7.10 - 1.21.4)
+DoomsDay Client
 
-LabyMod (not fully tested)
+AkrienLite
+
+Nemezida Client (в тестовом режиме, возможны ложные срабатывания)
+
+Inject Hitbox
+
+Blessed Client
+
+Troxill Client
+
+
+
+
+
+Анализ сетевой активности — не единственный метод детектирования. 
